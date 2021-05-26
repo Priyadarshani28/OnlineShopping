@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\ref\PaymentProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\PaymentProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\ref\PaymentProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\obj\Debug\net5.0\PaymentProcessing.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\PaymentProcessing\bin\Debug\net5.0\libzstd.dll

@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\ref\OrderProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\OrderProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\ref\OrderProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\obj\Debug\net5.0\OrderProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderProcessing\bin\Debug\net5.0\libzstd.dll

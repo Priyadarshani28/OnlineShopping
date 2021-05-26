@@ -1,0 +1,35 @@
+
+@using CRMDemoApp.Models
+
+
+@model IEnumerable<CRMDemoApp.Models.Customer>
+
+@{ ViewData["Title"] = "Index";}
+<h1>Customer List...</h1>
+<hr/>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Location)</th>
+            <th>@Html.DisplayNameFor(model => model.ContactNumber)</th>
+            <th>@Html.DisplayNameFor(model => model.Age)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Location)</td>
+                <td>@Html.DisplayFor(modelItem => item.ContactNumber)</td>
+                <th>@Html.DisplayNameFor(modelItem => item.Age)</th>
+                <th>@Html.DisplayNameFor(modelItem => item.Email)</th>
+                <td><a href="/Customers/add/@item.Id">Add</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

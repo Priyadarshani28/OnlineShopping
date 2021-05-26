@@ -1,0 +1,16 @@
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\ref\SolidTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\bin\Debug\net5.0\SolidTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\ref\SolidTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\SolidTest\obj\Debug\net5.0\SolidTest.genruntimeconfig.cache

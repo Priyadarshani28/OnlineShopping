@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\ref\Shipment.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\Shipment.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\ref\Shipment.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\bin\Debug\net5.0\libzstd.dll
+C:\dotnet2\HandsOn\OnlineShopping\Shipment\obj\Debug\net5.0\Shipment.csprojAssemblyReference.cache

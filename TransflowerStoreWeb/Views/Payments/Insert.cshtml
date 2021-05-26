@@ -1,0 +1,36 @@
+@using PaymentProcessing;
+
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2>New Product </h2>
+
+<form action="/payments/insert" method="POST">
+    <table style="font-family:Arial">
+
+    <tr>
+        <td><b>PaymentID:</b></td>
+        <td><input type="text" name="PaymentID"/></td>
+    </tr>
+    <tr>
+        <td><b>CustomerID :</b></td>
+        <td><input type="text" name="CustomerID"/></td>
+    </tr>
+     <tr>
+        <td><b>PaymentDate :</b></td>
+        <td><input type="text" name="PaymentDate"/></td>
+    </tr>
+    <tr>
+        <td><b>Amount :</b></td>
+        <td><input type="text" name="Amount"/></td>
+    </tr>
+    
+     <tr>   
+          <td>
+           <input type="submit" value="insert"/>
+        </td>
+    </tr>
+</table>
+
+</form>

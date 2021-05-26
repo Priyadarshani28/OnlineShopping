@@ -1,0 +1,12 @@
+C:\dotnet2\HandsOn\OnlineShopping\CRM\bin\Debug\net5.0\CRM.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\CRM\bin\Debug\net5.0\CRM.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRM\bin\Debug\net5.0\ref\CRM.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRM\bin\Debug\net5.0\CRM.pdb
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\ref\CRM.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.pdb
+C:\dotnet2\HandsOn\OnlineShopping\CRM\obj\Debug\net5.0\CRM.csprojAssemblyReference.cache

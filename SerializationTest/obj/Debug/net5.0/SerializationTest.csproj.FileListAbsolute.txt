@@ -1,0 +1,16 @@
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\ref\SerializationTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\bin\Debug\net5.0\SerializationTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\ref\SerializationTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\SerializationTest\obj\Debug\net5.0\SerializationTest.genruntimeconfig.cache

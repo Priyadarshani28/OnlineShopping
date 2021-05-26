@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\ref\CRMTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\bin\Debug\net5.0\CRMTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\ref\CRMTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\CRMTest\obj\Debug\net5.0\CRMTest.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RecruitmentApp/1.0.0": {
+        "runtime": {
+          "RecruitmentApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecruitmentApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\ref\OrderTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\bin\Debug\net5.0\OrderTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\ref\OrderTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\OrderTest\obj\Debug\net5.0\OrderTest.genruntimeconfig.cache

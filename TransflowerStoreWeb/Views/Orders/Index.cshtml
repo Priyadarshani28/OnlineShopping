@@ -1,0 +1,18 @@
+@using OrderProcessing;
+@{
+    ViewData["Title"] = "Products Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Orders</h1>
+</div>
+
+<h1>Orders List</h1>
+<hr/>
+<a href="/orders/insert">Add new Order</a>
+<div>
+    @foreach (Order  order in ViewData["orders"] as List<Order>)
+    {
+       <p>  Order ID :@order.Id  |Total Amount:@order.TotalAmount |Status:@order.Status <a href="/orders/details/@order.Id">Details</a></p>  
+    }
+</div>

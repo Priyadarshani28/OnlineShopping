@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Priya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Priya\\.nuget\\packages"
+    ]
+  }
+}

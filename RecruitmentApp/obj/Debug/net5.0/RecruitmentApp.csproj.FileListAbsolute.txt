@@ -1,0 +1,16 @@
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.exe
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.dll
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\ref\RecruitmentApp.dll
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\bin\Debug\net5.0\RecruitmentApp.pdb
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.dll
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\ref\RecruitmentApp.dll
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.pdb
+C:\dotnet2\HandsOn\OnlineShopping\RecruitmentApp\obj\Debug\net5.0\RecruitmentApp.genruntimeconfig.cache

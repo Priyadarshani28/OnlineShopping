@@ -1,0 +1,12 @@
+C:\dotnet2\HandsOn\OnlineShopping\Banking\bin\Debug\net5.0\Banking.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\Banking\bin\Debug\net5.0\Banking.dll
+C:\dotnet2\HandsOn\OnlineShopping\Banking\bin\Debug\net5.0\ref\Banking.dll
+C:\dotnet2\HandsOn\OnlineShopping\Banking\bin\Debug\net5.0\Banking.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.dll
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\ref\Banking.dll
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Banking\obj\Debug\net5.0\Banking.csprojAssemblyReference.cache

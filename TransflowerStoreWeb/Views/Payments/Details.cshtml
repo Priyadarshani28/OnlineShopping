@@ -1,0 +1,46 @@
+@using System.Collections.Generic;
+@using PaymentProcessing;
+
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Payment Details</h2>
+@{
+
+    Payment thePayment=ViewData["payment"] as Payment;
+}
+<table style="font-family:Arial">
+    <tr>
+        <td><b>PaymentID :</b></td>
+        <td>@thePayment.PaymentID</td>
+    </tr>
+    <tr>
+        <td><b>Customer ID :</b></td>
+        <td>@thePayment.CustomerId</td>
+    </tr>
+    <tr>
+        <td><b>PaymentDate :</b></td>
+        <td>@thePayment.PaymentDate</td>
+    </tr>
+    <tr>
+        <td><b>PaymentAmount :</b></td>
+        <td>@thePayment.Amount</td>
+    </tr>
+     
+
+    <tr>
+        <td>
+            @Html.ActionLink("Details", "Details", "Payments", new { id = thePayment.PaymentID }, "")
+        </td>
+         <td>
+            @Html.ActionLink("Update", "Update", "Payments", new { id = thePayment.PaymentID }, "")
+        </td>
+         <td>
+            @Html.ActionLink("Delete", "Delete", "Payments", new { id = thePayment.PaymentID }, "")
+        </td>
+         
+    </tr>
+</table>
+

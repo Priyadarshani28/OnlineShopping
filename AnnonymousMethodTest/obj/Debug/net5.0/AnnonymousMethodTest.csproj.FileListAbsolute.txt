@@ -1,0 +1,16 @@
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\ref\AnnonymousMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\bin\Debug\net5.0\AnnonymousMethodTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\ref\AnnonymousMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\AnnonymousMethodTest\obj\Debug\net5.0\AnnonymousMethodTest.genruntimeconfig.cache

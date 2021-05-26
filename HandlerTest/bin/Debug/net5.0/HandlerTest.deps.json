@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HandlerTest/1.0.0": {
+        "dependencies": {
+          "Banking": "1.0.0"
+        },
+        "runtime": {
+          "HandlerTest.dll": {}
+        }
+      },
+      "Banking/1.0.0": {
+        "runtime": {
+          "Banking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandlerTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

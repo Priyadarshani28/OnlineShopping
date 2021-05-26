@@ -1,0 +1,19 @@
+@using PaymentProcessing;
+@{
+    ViewData["Title"] = "Payment Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Payments</h1>
+</div>
+
+<h1>Payment List</h1>
+<hr/>
+
+<div>
+    @foreach (Payment  paymt in ViewData["payments"] as List<Payment>)
+    {
+       <p>  Payment  :@paymt.PaymentID   <a href="/payments/details/122">Details</a></p>  
+    }
+</div>
+

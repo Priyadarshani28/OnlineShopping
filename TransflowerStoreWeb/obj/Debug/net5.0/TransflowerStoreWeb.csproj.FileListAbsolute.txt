@@ -1,0 +1,258 @@
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.Development.json
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.json
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.exe
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.deps.json
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.json
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.dev.json
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ref\TransflowerStoreWeb.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Google.Protobuf.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MySql.Data.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Zstandard.Net.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Renci.SshNet.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csprojAssemblyReference.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfoInputs.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfo.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CoreCompileInputs.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.Manifest.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.xml
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\scopedcss\bundle\TransflowerStoreWeb.styles.css
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.input.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.output.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorCoreGenerate.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Register.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\List.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cs
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CopyComplete
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\ref\TransflowerStoreWeb.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.pdb
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.genruntimeconfig.cache
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.dll
+D:\TAP\DotnetCore\Day_23\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.exe
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.deps.json
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.json
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.dev.json
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ref\TransflowerStoreWeb.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csprojAssemblyReference.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfoInputs.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfo.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.Manifest.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.xml
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\scopedcss\bundle\TransflowerStoreWeb.styles.css
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.input.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.output.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorCoreGenerate.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Register.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CopyComplete
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\ref\TransflowerStoreWeb.dll
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.pdb
+C:\Users\Priya\Desktop\DotnetCore Practice\Practice codes\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.genruntimeconfig.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorAssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\ref\TransflowerStoreWeb.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\appsettings.json
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\libzstd.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.exe
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ref\TransflowerStoreWeb.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\DnsClient.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Zstandard.Net.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\MySqlConnector.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\SharpCompress.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Renci.SshNet.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.dll
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Catalog.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\CRM.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\OrderProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Membership.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Banking.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\PaymentProcessing.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\Shipment.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\bin\Debug\net5.0\ShoppingCart.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.Manifest.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\staticwebassets\TransflowerStoreWeb.StaticWebAssets.xml
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\scopedcss\bundle\TransflowerStoreWeb.styles.css
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.input.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.TagHelpers.output.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorCoreGenerate.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Accounts\Register.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Aboutus.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\List.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.RazorTargetAssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.Views.pdb
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.csproj.CopyComplete
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\TransflowerStoreWeb.genruntimeconfig.cache
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Customers\Details.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Customers\Index.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Insert.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Products\Update.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Orders\Insert.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Orders\Update.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Customers\Insert.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Customers\Update.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Payments\Details.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Payments\Index.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Payments\Insert.cshtml.g.cs
+C:\dotnet2\HandsOn\OnlineShopping\TransflowerStoreWeb\obj\Debug\net5.0\Razor\Views\Payments\Update.cshtml.g.cs

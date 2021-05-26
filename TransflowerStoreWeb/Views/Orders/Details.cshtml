@@ -1,0 +1,29 @@
+@using System.Collections.Generic;
+@using OrderProcessing;
+
+@{
+    ViewData["Title"] = "Product Details Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Order Details</h1>
+</div>
+
+<h1>Order Details</h1>
+<hr/>
+<div>
+      @{ 
+          Order  order=ViewData["order"] as Order;
+        }
+   
+       <p>Order ID :@order.Id </p>
+       <p>Customer ID:@order.CustomerId</p> 
+       <p>Order Date:@order.OrderDate</p> 
+       <p>Total Amount:@order.TotalAmount</p> 
+       <p>Payment Mode:@order.PaymentMode</p> 
+       <p>|Status:@order.Status</p>   
+ 
+            @Html.ActionLink("Update", "Update", "orders", new { id = order.Id }, "")|
+            @Html.ActionLink("Delete", "Delete", "orders", new { id = order.Id }, "")
+</div>
+

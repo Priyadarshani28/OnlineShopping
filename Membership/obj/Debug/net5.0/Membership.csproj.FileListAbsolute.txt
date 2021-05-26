@@ -1,0 +1,15 @@
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\Membership.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\Membership.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\ref\Membership.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\Membership.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\ref\Membership.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\obj\Debug\net5.0\Membership.pdb
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\snappy32.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\snappy64.dll
+C:\dotnet2\HandsOn\OnlineShopping\Membership\bin\Debug\net5.0\libzstd.dll

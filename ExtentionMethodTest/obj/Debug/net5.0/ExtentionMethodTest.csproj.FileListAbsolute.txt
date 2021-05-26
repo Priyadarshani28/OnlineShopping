@@ -1,0 +1,16 @@
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.csprojAssemblyReference.cache
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.AssemblyInfoInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.AssemblyInfo.cs
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.csproj.CoreCompileInputs.cache
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.exe
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.deps.json
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.runtimeconfig.json
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.runtimeconfig.dev.json
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ref\ExtentionMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\bin\Debug\net5.0\ExtentionMethodTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ref\ExtentionMethodTest.dll
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.pdb
+C:\dotnet2\HandsOn\OnlineShopping\ExtentionMethodTest\obj\Debug\net5.0\ExtentionMethodTest.genruntimeconfig.cache

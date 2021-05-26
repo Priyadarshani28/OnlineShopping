@@ -1,0 +1,41 @@
+@using OrderProcessing;
+
+@{
+    ViewBag.Title= "Insert";
+}
+
+<h2>New Order </h2>
+
+<form action="/orders/insert" method= "POST">
+    <table style="font family:Arial">
+
+    <tr>
+        <td><b>Id :</b></td>
+        <td><input type="text" name="id"/></td>
+    </tr>
+    <tr>
+        <td><b>Customer Id :</b></td>
+        <td><input type="text" name="customerId"/></td>
+    </tr>
+    <tr>
+        <td><b>Order Date :</b></td>
+        <td><input type="text" name="orderDate"/></td>
+    </tr>
+    <tr>
+        <td><b>Total Amount :</b></td>
+        <td><input type="text" name="totalAmount"/></td>
+    </tr>
+    <tr>
+        <td><b>Payment Mode :</b></td>
+        <td><input type="text" name="paymentMode"/></td>
+    </tr>
+    <tr>
+        <td><b>Status :</b></td>
+        <td><input type="text" name="status"/></td>
+    </tr>
+    <tr>
+        <td><input type="submit" value="insert"/></td>
+    </tr>
+</table>
+
+</form>
